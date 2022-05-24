@@ -2,7 +2,8 @@
 
 👨🏾‍💻 Estou atualmente estagiando na Infortech MS;
 
-📘 Estou me aprofundando em Data Science - Python;
+📘 Estou me aprofundando  - C/C++ e Python;
+    
 
 ## Olá, meu nome é Pedro Almeida! Estudante em Análise de sistemas.
 
