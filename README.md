@@ -17,7 +17,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
-  img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/cplusplus-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+          
 </div><br>  
 <div> 
   <a href="https://instagram.com/pedro.realofficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,7 +31,6 @@
 
 ### 📈 GitHub Activity Graph:
 [![Brownlius github activity graph](https://activity-graph.herokuapp.com/graph?username=Brownlius&theme=redical)](https://github.com/Brownlius/github-readme-activity-graph)
-<img src="./asset/redical.svg" height=250 alt="graph"/>
 <br>
 <br>
 
