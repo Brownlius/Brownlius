@@ -29,7 +29,7 @@
 <br>
 
 ### 📈 GitHub Activity Graph:
-[![Brownlius's github activity graph](https://activity-graph.herokuapp.com/graph?Brownlius=Ashutosh00710)](https://github.com/Brownlius/github-readme-activity-graph)
+[![Brownlius github activity graph](https://activity-graph.herokuapp.com/graph?Brownlius=Brownlius)](https://github.com/Brownlius/github-readme-activity-graph)
 
 <br>
 <br>
