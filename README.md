@@ -25,9 +25,14 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+<br>
+<br>
 ### 📈 GitHub Activity Graph:
-[![Brownlius github activity graph](https://activity-graph.herokuapp.com/graph?username=Brownlius&theme=react-dark)](https://github.com/Brownlius/github-readme-activity-graph)
+[![flavio1508 github activity graph](https://activity-graph.herokuapp.com/graph?username=flavio1508&theme=react-dark)](https://github.com/flavio1508/github-readme-activity-graph)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+<br>
+<br>
 
 
 
