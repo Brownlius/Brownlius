@@ -27,15 +27,15 @@
 </div>
 <br>
 <br>
+
 ### 📈 GitHub Activity Graph:
-[![Brownlius github activity graph](https://activity-graph.herokuapp.com/graph?username=Brownlius&theme=react-dark)](https://github.com/Brownlius/github-readme-activity-graph)
+[![Brownlius's github activity graph](https://activity-graph.herokuapp.com/graph?Brownlius=Ashutosh00710)](https://github.com/Brownlius/github-readme-activity-graph)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 <br>
 <br>
-
-
 
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
 </p>
+
+
