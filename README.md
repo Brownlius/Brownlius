@@ -29,9 +29,7 @@
  
 </div>
 <br>
-<br>
-
-### 📈 GitHub Activity Graph:
+### 📈 Minhas atividades aqui no Git:
 [![Brownlius github activity graph](https://activity-graph.herokuapp.com/graph?username=Brownlius&theme=redical)](https://github.com/Brownlius/github-readme-activity-graph)
 <br>
 <br>
