@@ -6,7 +6,7 @@
     
 
 ## Olá, meu nome é Pedro Almeida! Estudante em Análise de sistemas.
-![](https://komarev.com/ghpvc/?username=Bronwlius&color=blue&style=for-the-badge&label=Visitas+ao+meu+Perfil)
+![](https://komarev.com/ghpvc/?username=Bronwlius&color=brightgreen&style=for-the-badge&label=Visitas+ao+meu+Perfil)
 
 <div align="center">
   <a href="https://github.com/Brownlius">
