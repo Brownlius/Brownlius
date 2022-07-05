@@ -28,7 +28,7 @@
 <br>
 <br>
 ### 📈 GitHub Activity Graph:
-[![flavio1508 github activity graph](https://activity-graph.herokuapp.com/graph?username=flavio1508&theme=react-dark)](https://github.com/flavio1508/github-readme-activity-graph)
+[![Bronwlius github activity graph](https://activity-graph.herokuapp.com/graph?username=Bronwlius&theme=react-dark)](https://github.com/Bronwlius/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <br>
