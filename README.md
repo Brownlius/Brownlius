@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Estou atualmente estagiando na Infortech MS;
 
-📘 Estou me aprofundando  - C/C++ e C#;
+📘 Estou me aprofundando em C++ e C#;
     
 
 ## Olá, meu nome é Pedro Almeida! Estudante em Análise de sistemas.
