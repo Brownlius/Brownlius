@@ -1,8 +1,9 @@
 ## Pedro Almeida
 
-👨🏾‍💻 Estou atualmente estagiando na Infortech MS;
+👨🏾‍💻 Atualmente Analista de suporte em Infortech MS;
 
-📘 Estou me aprofundando em C++ e C#;
+📘 Estou me aprofundando em TS/JS - Angular;
+    Experiência do usuários - UI/UX
     
 
 ## Olá, meu nome é Pedro Almeida! Estudante em Análise de sistemas.
@@ -28,10 +29,6 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<br>
-<br>
-### 📈 minhas atividades no Git:
-[![Brownlius's github activity graph](https://activity-graph.herokuapp.com/graph?username=Brownlius&theme=redical)](https://github.com/Brownlius/github-readme-activity-graph)
 <br>
 <br>
 
