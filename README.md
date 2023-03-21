@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Atualmente Analista de suporte em Infortech MS;
 
-📘 Estou me aprofundando em TS/JS - Angular;
+📘 Estou me aprofundando em TS/JS - Angular;<br>
     Experiência do usuários - UI/UX
     
 
